@@ -1,4 +1,4 @@
-## Hi, I'm Ulikhaya 👋
+## Hi, I'm Ulikhaya Mazibuko👋
 
 Software developer from Newcastle, KwaZulu-Natal. I build working systems end to end: Java back ends, hand-coded websites and the spreadsheets and processes that businesses actually run on.
 
